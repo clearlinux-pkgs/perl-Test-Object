@@ -4,7 +4,7 @@
 #
 Name     : perl-Test-Object
 Version  : 0.08
-Release  : 1
+Release  : 2
 URL      : https://cpan.metacpan.org/authors/id/E/ET/ETHER/Test-Object-0.08.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/E/ET/ETHER/Test-Object-0.08.tar.gz
 Summary  : 'Thoroughly testing objects via registered handlers'
@@ -98,5 +98,5 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.28.2/Test/Object.pm
-/usr/lib/perl5/vendor_perl/5.28.2/Test/Object/Test.pm
+/usr/lib/perl5/vendor_perl/5.30.1/Test/Object.pm
+/usr/lib/perl5/vendor_perl/5.30.1/Test/Object/Test.pm
