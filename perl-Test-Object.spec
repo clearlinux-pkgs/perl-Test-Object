@@ -4,7 +4,7 @@
 #
 Name     : perl-Test-Object
 Version  : 0.08
-Release  : 6
+Release  : 7
 URL      : https://cpan.metacpan.org/authors/id/E/ET/ETHER/Test-Object-0.08.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/E/ET/ETHER/Test-Object-0.08.tar.gz
 Summary  : 'Thoroughly testing objects via registered handlers'
